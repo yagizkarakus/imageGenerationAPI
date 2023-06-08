@@ -3,7 +3,7 @@ using stable diffusion cutom pipeline and neural style transform create a web ap
 
 first install the requirements with 
 
-#pip install -r requirements.txt
+# pip install -r requirements.txt
 
 after that you need to install and setup ngrok to your pc 
 
@@ -13,4 +13,4 @@ you can install and setup ngrok from the following link: https://ngrok.com/downl
 
 after install and authenticate ngrok you can run app.py file to start web api
 
-##!!!this api need cuda supported graphics card!!!
+## !!!this api need cuda supported graphics card!!!
